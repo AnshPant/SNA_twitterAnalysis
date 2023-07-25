@@ -1,0 +1,55 @@
+ /* ::-webkit-scrollbar {
+    width: 0; 
+    /* background: transparent;  Optional: just make scrollbar invisible */
+}
+body { overflow-x: hidden; /* Hide scrollbars */ }
+
+*{
+    margin: 0;
+    padding: 0;
+    / 
+ }
+.jjj2{
+    height: 4rem;
+}
+.content{
+    background-color: rgb(35, 33, 33);
+}
+.ffff{
+    width: 1;
+}
+.noo {
+    text-decoration: none;
+}
+.main{
+    height: 100%   ;
+    width: 100%;
+    background-color: rgb(43, 41, 41);
+    color: white;
+}
+.jjj{
+    height: 24rem;
+}
+
+
+    /* .main .about{
+        height: 30rem;
+        width: 1000rem;
+        background-color: #1f1d1e;
+        /* display: grid; */
+        /* gap: 2px; */
+        /* box-sizing: border-box; */
+        justify-content: center;
+        align-items: center;
+    }  */
+
+
+
+
+ 
+ 
+
+
+ 
+
+  */
